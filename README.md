@@ -1,1 +1,1 @@
-[![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](https://www.credly.com/earner/earned/badge/77acbd4f-016f-4b37-bfdb-5d98a8817862)
+[![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/80x80/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](https://www.credly.com/earner/earned/badge/77acbd4f-016f-4b37-bfdb-5d98a8817862)
