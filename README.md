@@ -5,30 +5,9 @@
 
 #
 
-## Elfak 
+## Elfak
 
-### 3. semestar
-[OOP](https://github.com/gospaleks/OOP)</br>
-[AOR1](https://github.com/gospaleks/AOR1)</br>
-[Logičko projektovanje](https://github.com/bxgda/Logicko-projektovanje)</br>
-
-### 4. semestar
-[Programski jezici](https://github.com/bxgda/Programski-jezici)</br>
-[Strukture podataka](https://github.com/gospaleks/Strukture-Podataka)</br>
-[OOProj](https://github.com/bxgda/OOProj)</br>
-[AOR2](https://github.com/bxgda/AOR2)</br>
-
-### 5. semestar
-[Web programiranje](https://github.com/bxgda/Web-programiranje)</br>
-[OS](https://github.com/gospaleks/OS)</br>
-[PIAA](https://github.com/bxgda/PIAA)</br>
-
-### 6. semestar
-[Sistemsko programiranje](https://github.com/gospaleks/weather-api-sysprog-1)</br>
-[Sistemi baza podataka](https://github.com/bxgda/auto-salon-winform)</br>
-[Mobilne aplikacije](https://github.com/bxgda/TuneSpots)</br>
-
-### 7. semestar
-[Računarska grafika](https://github.com/bxgda/Racunarska-grafika)</br>
-[Programski prevodioci](https://github.com/bxgda/Programski-prevodioci)</br>
-[Računarski vid](https://github.com/bxgda/Racunarski-vid)</br>
+| **2. godina** | **3. godina** | **4. godina** |
+|----------------------|---------------------|----------------|
+| **3. semestar**<br>🖥️ [OOP](https://github.com/gospaleks/OOP)<br>💾 [AOR1](https://github.com/gospaleks/AOR1)<br>🔌 [Logičko projektovanje](https://github.com/bxgda/Logicko-projektovanje) | **5. semestar**<br>🌐 [Web programiranje](https://github.com/bxgda/Web-programiranje)<br>💻 [OS](https://github.com/gospaleks/OS)<br>📊 [PIAA](https://github.com/bxgda/PIAA) | **7. semestar**<br>🎨 [Računarska grafika](https://github.com/bxgda/Racunarska-grafika)<br>🧩 [Programski prevodioci](https://github.com/bxgda/Programski-prevodioci)<br>👁️ [Računarski vid](https://github.com/bxgda/Racunarski-vid) |
+| **4. semestar**<br>⌨️ [Programski jezici](https://github.com/bxgda/Programski-jezici)<br>💽 [Strukture podataka](https://github.com/gospaleks/Strukture-Podataka)<br>⌨️ [OOProj](https://github.com/bxgda/OOProj)<br>💾 [AOR2](https://github.com/bxgda/AOR2) | **6. semestar**<br>🛠️ [Sistemsko programiranje](https://github.com/gospaleks/weather-api-sysprog-1)<br>🛢️ [Sistemi baza podataka](https://github.com/bxgda/auto-salon-winform)<br>📱 [Mobilne aplikacije](https://github.com/bxgda/TuneSpots) |  |
